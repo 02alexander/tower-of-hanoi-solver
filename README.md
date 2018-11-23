@@ -4,7 +4,7 @@ Animates the solution for tower of hanoi for any number of disks.
 # Gettings started
 on arch linux just run
 
-`$ sudo pacman -S cargo`
+`$ sudo pacman -S rust`
 
 `$ cargo build --release`
 
