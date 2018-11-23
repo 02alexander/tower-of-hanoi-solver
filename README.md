@@ -14,3 +14,5 @@ It only takes 1 argument and that is how many disks to solve for, the default va
 for example:
 
 `$ cargo run --release 3`
+
+Press enter to view the next step in the animation.
